@@ -1,4 +1,6 @@
-### Hi there 👋
+### ![](./banner_glitch.jpg)
+
+## Hello! 👋
 
 TL;DR:
 
