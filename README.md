@@ -2,7 +2,7 @@
 
 ## Hello! 👋
 
-Hi, I'm David, a junior software engineer based in London - It probably goes without saying that I like building things, useful things which look nice and function well. At the moment I'm working in web as a software consultant for [_nology](https://nology.io/), contracted to [Accenture UK]([https://nology.io/](https://www.accenture.com/gb-en/). 
+Hi, I'm David, a junior software engineer based in London - It probably goes without saying that I like building things, useful things which look nice and function well. At the moment I'm working in web as a software consultant for [_nology](https://nology.io/), contracted to [Accenture UK](https://www.accenture.com/gb-en/). 
 
 Some technologies that I've used over the years, in no particular order:
 
